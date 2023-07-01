@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "excel_to_csv", "excel_to_csv\excel_to_csv.vbproj", "{D46533D1-9E57-4781-A273-E2982F8BACAA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setup2", "setup2\setup2.vdproj", "{3EEEB864-183E-4672-B1E4-19E1760569DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46533D1-9E57-4781-A273-E2982F8BACAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46533D1-9E57-4781-A273-E2982F8BACAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46533D1-9E57-4781-A273-E2982F8BACAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46533D1-9E57-4781-A273-E2982F8BACAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EEEB864-183E-4672-B1E4-19E1760569DE}.Debug|Any CPU.ActiveCfg = Debug
+		{3EEEB864-183E-4672-B1E4-19E1760569DE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
